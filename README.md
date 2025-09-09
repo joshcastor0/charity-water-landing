@@ -194,3 +194,5 @@ footer {
     font-size: 1rem;
   }
 }
+<img width="1024" height="1024" alt="73E90FFA-1CA7-46EB-B476-F9CD5B70579E" src="https://github.com/user-attachments/assets/f82d6006-271a-42ed-8dee-fdbfe31119ae" /><img width="1002" height="663" alt="Screenshot 2025-09-08 at 11 20 47 PM" src="https://github.com/user-attachments/assets/2e3e4af6-6845-43f1-89e8-b33c646c527c" />
+
